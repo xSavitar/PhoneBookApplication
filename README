@@ -1,0 +1,32 @@
+What is this?
+=============
+
+This is a phone book application built to enhance saving, retreiving, editing and deleting of contacts on the web. It has also advance features of pagination and also searching of contacts from the database. This application mimics that of a typical native phone book application that runs on any phone.
+
+Core languages Involved.
+========================
+
+This application involves the following languages and their uses
+- HTML 5: For mark up and content creation.
+- CSS 3: Used for classic and good presentation of all the buttons, and for all in short the interface. In arcordance with the CSS 3 for styling, i also used Twitter's Bootstrap v3.0.0
+- PHP: This language does the back-end logic of the site and this is where the programming takes place.
+- Java Script: This language handles events in the page like alerts, and also does client-side form validation checks to see that all things are well put in place.
+- SQL: Used very little just to perform some Queries in this application.
+
+Frame-Work Used in the Application.
+===================================
+
+The only frame-work that is used by the application is the twitter's bootstrap frame-work for adding responsitivity of various elements of the page and beautifying the interface.
+
+Requirements for Application to Run.
+====================================
+
+For this application to run, you need to have the following on particular platforms
+
+1) Linux Platform: 
+	- Apache Server version 2 and above.
+	- MySQL Server of any version.
+	- PHP 
+
+2) Windows Platform:
+	- XAMPP installed
